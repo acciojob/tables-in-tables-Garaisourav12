@@ -12,3 +12,15 @@ table{
 .left{
 	width: 50em;
 }
+.top{
+	padding: 3.5em 0; 
+}
+.bottom{
+	padding: 2em 0;
+}
+.top{
+	height: 20vw;
+}
+.buttom{
+	height: 20vw;
+}
