@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+*{
+	text-align: center;
+}
+table{
+	width: 100%;
+}
+.right{
+	width: 50em;
+}
+.left{
+	width: 50em;
+}
